@@ -36,10 +36,7 @@ The pipeline is designed to:
 - Python 3.9 or higher
 
 ## System Setup
-1. Clone the repository.
-   ```bash
-    git clone https://github.com/airscholar/RedditDataEngineering.git
-   ```
+
 2. Create a virtual environment.
    ```bash
     python3 -m venv venv
